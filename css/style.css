@@ -1,0 +1,126 @@
+.index,
+.index * {
+  box-sizing: border-box;
+}
+.index {
+  background: #0b0000;
+  border-style: solid;
+  border-color: #000000;
+  border-width: 1px;
+  height: 900px;
+  position: relative;
+  overflow: hidden;
+}
+.group-2 {
+  position: absolute;
+  inset: 0;
+}
+.rectangle-1 {
+  border-radius: 0px;
+  width: 769px;
+  height: 108px;
+  position: absolute;
+  left: 335px;
+  top: 572px;
+  overflow: visible;
+}
+.get-started {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Montserrat-Bold", sans-serif;
+  font-size: 24px;
+  font-weight: 700;
+  position: absolute;
+  left: calc(50% - 82px);
+  top: 611px;
+}
+.group-3 {
+  position: absolute;
+  inset: 0;
+}
+.data-engineer-with-3-years-of-work-experience-in-healthcare-construction-and-maintenance-engineering {
+  color: #efecec;
+  text-align: center;
+  font-family: "Montserrat-Bold", sans-serif;
+  font-size: 24px;
+  font-weight: 700;
+  position: absolute;
+  left: calc(50% - 362px);
+  top: calc(50% - 71px);
+  width: 785px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.let-s-create-a-website-design {
+  color: #faf5f5;
+  text-align: left;
+  font-family: "Montserrat-Bold", sans-serif;
+  font-size: 72px;
+  font-weight: 700;
+  position: absolute;
+  left: 80px;
+  top: 179px;
+  width: 1326px;
+  height: 169px;
+}
+.dylan-dsouza-university-of-maryland-fall-2025 {
+  color: #faf6f6;
+  text-align: left;
+  font-family: "Montserrat-Bold", sans-serif;
+  font-size: 24px;
+  font-weight: 700;
+  position: absolute;
+  left: calc(50% - 335px);
+  top: 828px;
+  width: 672px;
+  height: 72px;
+}
+.frame-2 {
+  width: 1241px;
+  height: 103px;
+  position: absolute;
+  left: 80px;
+  top: 48px;
+  overflow: hidden;
+}
+.contact {
+  color: #f4eded;
+  text-align: left;
+  font-family: "Inter-Bold", sans-serif;
+  font-size: 40px;
+  font-weight: 700;
+  position: absolute;
+  left: 1083px;
+  top: 24px;
+}
+.about {
+  color: #f4eded;
+  text-align: left;
+  font-family: "Inter-Bold", sans-serif;
+  font-size: 40px;
+  font-weight: 700;
+  position: absolute;
+  left: 943px;
+  top: 20px;
+}
+.home {
+  color: #f4eded;
+  text-align: left;
+  font-family: "Inter-Bold", sans-serif;
+  font-size: 40px;
+  font-weight: 700;
+  position: absolute;
+  left: 795px;
+  top: 20px;
+}
+.dylan-dsouza {
+  color: #f4eded;
+  text-align: left;
+  font-family: "Inter-Bold", sans-serif;
+  font-size: 40px;
+  font-weight: 700;
+  position: absolute;
+  left: 0px;
+  top: 33px;
+}

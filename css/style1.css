@@ -1,0 +1,163 @@
+.about,
+.about * {
+  box-sizing: border-box;
+}
+.about {
+  background: #020007;
+  border-style: solid;
+  border-color: #000000;
+  border-width: 1px;
+  height: 900px;
+  position: relative;
+  overflow: hidden;
+}
+.budt-748-industry-practicum {
+  color: #f8ebeb;
+  text-align: left;
+  font-family: "Montserrat-Bold", sans-serif;
+  font-size: 72px;
+  font-weight: 700;
+  position: absolute;
+  left: 50px;
+  top: 177px;
+  width: 1326px;
+  height: 169px;
+}
+.budt-748-is-a-capstone-for-msis-students-to-apply-thier-knowledge-for-real-world-projects {
+  color: #fff7f7;
+  text-align: left;
+  font-family: "Montserrat-Bold", sans-serif;
+  font-size: 24px;
+  font-weight: 700;
+  position: absolute;
+  left: calc(50% - 655px);
+  top: calc(50% - 156px);
+  width: 1227px;
+  height: 80px;
+}
+.dylan-dsouza-university-of-maryland-fall-2025 {
+  color: #fcf6f6;
+  text-align: left;
+  font-family: "Montserrat-Bold", sans-serif;
+  font-size: 24px;
+  font-weight: 700;
+  position: absolute;
+  left: calc(50% - 357px);
+  top: 814px;
+  width: 672px;
+  height: 72px;
+}
+.frame-2 {
+  width: 1241px;
+  height: 103px;
+  position: absolute;
+  left: 31px;
+  top: 52px;
+  overflow: hidden;
+}
+.contact {
+  color: #f2e9e9;
+  text-align: left;
+  font-family: "Inter-Bold", sans-serif;
+  font-size: 40px;
+  font-weight: 700;
+  position: absolute;
+  left: 1083px;
+  top: 24px;
+}
+.about2 {
+  color: #f2e9e9;
+  text-align: left;
+  font-family: "Inter-Bold", sans-serif;
+  font-size: 40px;
+  font-weight: 700;
+  position: absolute;
+  left: 943px;
+  top: 20px;
+}
+.home {
+  color: #f2e9e9;
+  text-align: left;
+  font-family: "Inter-Bold", sans-serif;
+  font-size: 40px;
+  font-weight: 700;
+  position: absolute;
+  left: 795px;
+  top: 20px;
+}
+.dylan-dsouza {
+  color: #f2e9e9;
+  text-align: left;
+  font-family: "Inter-Bold", sans-serif;
+  font-size: 40px;
+  font-weight: 700;
+  position: absolute;
+  left: 22px;
+  top: 24px;
+}
+.frame-3 {
+  width: 896px;
+  height: 65px;
+  position: absolute;
+  left: 0px;
+  top: 396px;
+  overflow: hidden;
+}
+.professor-dr-paul-t-shapiro {
+  color: #e6d5d5;
+  text-align: left;
+  font-family: "-", sans-serif;
+  font-size: 24px;
+  font-weight: 400;
+  position: absolute;
+  left: 65px;
+  top: 18px;
+}
+.professor-dr-paul-t-shapiro-span {
+  font-family: "Montserrat-Bold", sans-serif;
+  font-weight: 700;
+}
+.professor-dr-paul-t-shapiro-span2 {
+  font-family: "Montserrat-Regular", sans-serif;
+}
+.semester-details-fall-2025 {
+  color: #eee2e2;
+  text-align: left;
+  font-family: "-", sans-serif;
+  font-size: 24px;
+  font-weight: 400;
+  position: absolute;
+  left: 65px;
+  top: 367px;
+}
+.semester-details-fall-2025-span {
+  font-family: "Montserrat-Bold", sans-serif;
+  font-weight: 700;
+}
+.semester-details-fall-2025-span2 {
+  font-family: "Montserrat-Regular", sans-serif;
+}
+.teaching-assistants-abhi-gupta-samiha-meah-zam-mozumder {
+  text-align: left;
+  font-family: "-", sans-serif;
+  font-size: 24px;
+  font-weight: 400;
+  position: absolute;
+  left: 60px;
+  top: 468px;
+  width: 855px;
+}
+.teaching-assistants-abhi-gupta-samiha-meah-zam-mozumder-span {
+  color: #e9e9ef;
+  font-family: "Montserrat-Bold", sans-serif;
+  font-weight: 700;
+}
+.teaching-assistants-abhi-gupta-samiha-meah-zam-mozumder-span2 {
+  color: #f8f1f1;
+  font-family: "Montserrat-Bold", sans-serif;
+  font-weight: 700;
+}
+.teaching-assistants-abhi-gupta-samiha-meah-zam-mozumder-span3 {
+  color: #f8f1f1;
+  font-family: "Montserrat-Regular", sans-serif;
+}
